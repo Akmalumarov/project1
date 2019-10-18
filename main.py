@@ -1,1 +1,6 @@
-# Case 1
+class triangle: #Akmal
+  pass
+class squire: #Dima
+  pass
+class parallelogram: #Semen
+  pass
