@@ -1,7 +1,7 @@
 import turtle
 import math
 
-class Triangle(object):
+class Triangle(object):      #AKMAL
     def __init__(self,x,y,side,color,angle):
         self.color = color
         self.x = x
