@@ -9,7 +9,6 @@ class Triangle(object):      #AKMAL
         self.side = side
         self.angle = angle
 
-
     def draw(self):
         turtle.up()
         turtle.color(self.color)
