@@ -32,6 +32,7 @@ class squire: #Dima
             turtle.forward(self.size)
             turtle.left(90)
         turtle.begin_fill()
+     
 
 class parallelogram: #Semen
   class Parallelogram:
