@@ -1,3 +1,4 @@
+import turtle
 class triangle: #Akmal
    def __init__(self, x, y, size, color):
         self.x = x
