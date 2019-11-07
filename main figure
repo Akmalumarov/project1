@@ -27,7 +27,8 @@ class Triangle(object):      #AKMAL
         turtle.hideturtle()
   
 class Square(object):        #SEMEN
-  def __init__(self,x,y,side,color, angle):
+class Square(object):
+    def __init__(self,x,y,side,color, angle):
         self.color = color
         self.x = x
         self.y = y
