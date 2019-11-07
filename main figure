@@ -1,0 +1,11 @@
+import turtle
+window = turtle.Screen()
+
+class Triangle(object):      #AKMAL
+  pass
+  
+class Square(object):        #SEMEN
+  pass
+  
+class Pgm(object):           #DMITRIY
+  pass
