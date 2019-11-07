@@ -28,7 +28,7 @@ class Triangle(object):      #AKMAL
 tri1 = Triangle(90, 90, 100, 'green', 0)
 tri1.draw()
 
-class Square(object):
+class Square(object): #Semyon
     def __init__(self,x,y,side,color):
         self.color = color
         self.x = x
