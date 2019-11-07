@@ -77,6 +77,20 @@ class Pgm(object):           #DMITRIY
         turtle.hideturtle()
 
 #FIGURA1                     #AKMAL
+            #FISH
+f1 = Triangle(250, 250, 100, "yellowgreen", 135)
+f1.draw()
+f2 = Triangle(250, 110, 100, "green", 180)
+f2.draw()
+f3 = Triangle(294, 292, 60, "blue", 180)
+f3.draw()
+f4 = Square(285, 143, 50, "cyan", 0)
+f4.draw()
+f5 = Pgm(333, 240, 60, "red", 235)
+f5.draw()
+f6 = Pgm(363, 136, 60, "indigo", 80)
+f6.draw()
+window.exitonclick()
 
 #FIGURA2                     #AKMAL
 
