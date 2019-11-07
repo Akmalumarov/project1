@@ -14,9 +14,23 @@ class Pgm(object):           #DMITRIY
 
 #FIGURA2                     #AKMAL
 
-#FIGURA3                     #SEMEN
+#FIGURA3  
+boat1 = Triangle(-400,400,100,"red",90)
+boat1.draw()
+boat2 = Triangle(-490,300,80,"blue",270)
+boat2.draw()
+boat3 = Triangle(-420,295,80,"sienna",45)
+boat3.draw()
+boat4 = Pgm(-420,295,80,"sienna",135)
+boat4.draw()                 #SEMEN
 
-#FIGURA4                     #SEMEN
+#FIGURA4   
+home1 = Triangle(-500,-100,100,"red",45)
+home1.draw()
+home2 = Triangle(-600,0,100,"red",180)
+home2.draw()
+home3 = Triangle(-475,0,100,"blue",135)
+home3.draw()                #SEMEN
 
 #FIGURA5                     #DMITRIY
 
