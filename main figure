@@ -1,5 +1,6 @@
 import turtle
 window = turtle.Screen()
+turtle.speed(0)
 
 class Triangle(object):      #AKMAL
     def __init__(self,x,y,side, color, angle):
