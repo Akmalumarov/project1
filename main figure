@@ -126,7 +126,9 @@ home1.draw()
 home2 = Triangle(-300,-100,100,"red",180)
 home2.draw()
 home3 = Triangle(-175,-100,100,"blue",135)
-home3.draw()              #SEMEN
+home3.draw()        
+home4 = Square(-225, -175, 50, "cyan", 45)
+home4.draw()                 #SEMEN
 
 #FIGURA5                     #DMITRIY
 
