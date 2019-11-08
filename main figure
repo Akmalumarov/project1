@@ -131,6 +131,14 @@ home4 = Square(-225, -175, 50, "cyan", 45)
 home4.draw()                 #SEMEN
 
 #FIGURA5                     #DMITRIY
+c1 = Triangle(100, 200, 100, "black", 90)
+c1.draw()
+c2 = Pgm(272, 170, 100, "red", 180)
+c2.draw()
+c3 = Pgm(272, 171, 100, "red", 90)
+c3.draw()
+c4 = Triangle(346, 105, 100, "black", -90)
+c4.draw()
 
 #FIGURA6                     #DMITRIY
 window.exitonclick()
