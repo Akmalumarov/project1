@@ -130,6 +130,6 @@ home3.draw()
 home4 = Square(-225, -175, 50, "cyan", 45)
 home4.draw()                 #SEMEN
 
-#FIGURA5    eeee                 #DMITRIY
+#FIGURA5                #DMITRIY
 #FIGURA6                     #DMITRIY
 window.exitonclick()
