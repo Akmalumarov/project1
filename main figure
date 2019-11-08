@@ -93,6 +93,21 @@ f6.draw()
 window.exitonclick()
 
 #FIGURA2                     #AKMAL
+b1 = Triangle(300, -100, 100, "black", 225)
+b1.draw()
+b2 = Square(300, -100, 50, "grey", 90)
+b2.draw()
+b3 = Triangle(356, -100, 40, "brown", 180)
+b3.draw()
+b4 = Triangle(300, -100, 140, "light gray", 315)
+b4.draw()
+b5 = Pgm(120, -140, 60, "darkblue", 270)
+b5.draw()
+b6 = Pgm(120, -200, 60, "purple", -45)
+b6.draw()
+b7 = Triangle(287, -250, 100, "silver", 90)
+b7.draw()
+turtle.right(45)
 
 #FIGURA3  
 boat1 = Triangle(-400,400,100,"red",90)
