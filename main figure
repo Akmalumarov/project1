@@ -110,23 +110,23 @@ b7 = Triangle(287, -250, 100, "silver", 90)
 b7.draw()
 turtle.right(45)
 
-#FIGURA3  
-boat1 = Triangle(-400,400,100,"red",90)
+#FIGURA3                  #SEMEN
+turtle.right(90)
+boat1 = Triangle(-250,200,100,"red",90)
 boat1.draw()
-boat2 = Triangle(-490,300,80,"blue",270)
+boat2 = Triangle(-340,100,80,"blue",270)
 boat2.draw()
-boat3 = Triangle(-420,295,80,"sienna",45)
+boat3 = Triangle(-270,95,80,"sienna",45)
 boat3.draw()
-boat4 = Pgm(-420,295,80,"sienna",135)
-boat4.draw()                 #SEMEN
-
+boat4 = Pgm(-270,95,80,"chocolate",135)
+boat4.draw()
 #FIGURA4   
-home1 = Triangle(-500,-100,100,"red",45)
+home1 = Triangle(-200,-200,100,"firebrick",45)
 home1.draw()
-home2 = Triangle(-600,0,100,"red",180)
+home2 = Triangle(-300,-100,100,"red",180)
 home2.draw()
-home3 = Triangle(-475,0,100,"blue",135)
-home3.draw()                #SEMEN
+home3 = Triangle(-175,-100,100,"blue",135)
+home3.draw()              #SEMEN
 
 #FIGURA5                     #DMITRIY
 
