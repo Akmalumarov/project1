@@ -91,7 +91,7 @@ f5 = Pgm(333, 240, 60, "red", 235)
 f5.draw()
 f6 = Pgm(363, 136, 60, "indigo", 80)
 f6.draw()
-window.exitonclick()
+turtle.right(90)
 
 #FIGURA2                     #AKMAL
 b1 = Triangle(300, -100, 100, "black", 225)
@@ -131,3 +131,4 @@ home3.draw()              #SEMEN
 #FIGURA5                     #DMITRIY
 
 #FIGURA6                     #DMITRIY
+window.exitonclick()
